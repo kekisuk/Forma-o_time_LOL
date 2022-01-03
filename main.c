@@ -1,3 +1,7 @@
+/*
+    Autora: Francisca Kelen Ferreira dos Santos
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
